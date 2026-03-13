@@ -26,7 +26,7 @@
 
 static const char* PROGRAM        = "MineSweeper";
 static const char* DESCRIPTION    = "An old game";
-static const char* LINK           = "https://github.com/AnotherJohnH/MineSweeper";
+static const char* LINK           = "https://github.com/SloeComputers/MineSweeper";
 static const char* AUTHOR         = "John D. Haughton";
 static const char* COPYRIGHT_YEAR = "2016";
 

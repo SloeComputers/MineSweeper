@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: MineSweeper
+description: A Sloe Computers Project
+exclude: Platform

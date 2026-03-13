@@ -1,13 +1,13 @@
 # Mine Sweeper
 
 A game from the past. This version is intended as an example of the use of the
-[Platform](https://github.com/AnotherJohnH/Platform) GUI C++ API.
+[Platform](https://github.com/SloeComputers/Platform) GUI C++ API.
 
 Try a browser hosted version of the application [here](https://anotherjohnh.github.io/MineSweeper/mines.html)
 
 ## Dependencies
 
-+ https://github.com/AnotherJohnH/Platform  (pulled in at checkout)
++ https://github.com/SloeComputers/Platform  (pulled in at checkout)
 + SDL2
 + cmake and UNIX make or auto detection of ninja if installed
 
@@ -16,11 +16,11 @@ Try a browser hosted version of the application [here](https://anotherjohnh.gith
 This repo uses git sub-modules, so checkout using --recurse to clone all the
 dependent source...
 
-    git clone --recurse https://github.com/AnotherJohnH/MineSweeper.git
+    git clone --recurse https://github.com/SloeComputers/MineSweeper.git
 
 or
 
-    git clone --recurse ssh://git@github.com/AnotherJohnH/MineSweeper.git
+    git clone --recurse ssh://git@github.com/SloeComputers/MineSweeper.git
 
 ## Build
 
