@@ -26,7 +26,7 @@ project(MineSweeper
         LANGUAGES CXX
         VERSION   0.2)
 
-add_subdirectory(Platform)
+add_subdirectory(PDK)
 
 add_executable(mines Source/mines.cpp)
 

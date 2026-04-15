@@ -1,13 +1,13 @@
 # Mine Sweeper
 
 A game from the past. This version is intended as an example of the use of the
-[Platform](https://github.com/SloeComputers/Platform) GUI C++ API.
+[PDK](https://github.com/SloeComputers/PDK) GUI C++ API.
 
 Try a browser hosted version of the application [here](https://anotherjohnh.github.io/MineSweeper/mines.html)
 
 ## Dependencies
 
-+ https://github.com/SloeComputers/Platform  (pulled in at checkout)
++ https://github.com/SloeComputers/PDK  (pulled in at checkout)
 + SDL2
 + cmake and UNIX make or auto detection of ninja if installed
 
@@ -38,7 +38,7 @@ Direct build using `cmake` and `make`...
 
 ## Run
 
-After a build binary will be found here `buid/native/maze`. Command line interface...
+After a build binary will be found here `buid/native/mines`. Command line interface...
 
     NAME
          MineSweeper - An old game

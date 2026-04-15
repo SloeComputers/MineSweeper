@@ -11,4 +11,4 @@ docs: Emscripten
 	cp build/Emscripten/mines.js   docs
 	cp build/Emscripten/mines.wasm docs
 
-include Platform/build.make
+include PDK/build.make
