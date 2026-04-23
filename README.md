@@ -5,6 +5,10 @@ A game from the past. This version is intended as an example of the use of the
 
 Try a browser hosted version of the application [here](https://anotherjohnh.github.io/MineSweeper/mines.html)
 
+## Status
+
+[![Build Status](https://github.com/SloeComputers/MineSweeper/actions/workflows/build_on_push.yml/badge.svg)](https://github.com/SloeComputers/MineSweeper/actions/workflows/build_on_push.yml)
+
 ## Dependencies
 
 + https://github.com/SloeComputers/PDK  (pulled in at checkout)

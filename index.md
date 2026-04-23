@@ -1,7 +1,7 @@
 # About
 
 A game from the past. This version is intended as an example of the use of the
-[Platform](https://github.com/AnotherJohnH/Platform) GUI C++ API.
+[PDK](https://github.com/SloeComputers/PDK) GUI C++ API.
 
 Try a browser hosted version of the application [here](https://sloecomputers.github.io/MineSweeper/mines.html)
 
